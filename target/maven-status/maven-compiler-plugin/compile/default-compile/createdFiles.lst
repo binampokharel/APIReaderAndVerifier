@@ -1,0 +1,6 @@
+org\zipCodeTester\ZipCodeResponseDTO.class
+org\zipCodeTester\ZipCodeTesterMain.class
+org\zipCodeTester\ZipCodeRequestDTO.class
+org\zipCodeTester\ExecutionController.class
+org\zipCodeTester\ResponseDTO.class
+org\zipCodeTester\TechnicianAvailability.class
